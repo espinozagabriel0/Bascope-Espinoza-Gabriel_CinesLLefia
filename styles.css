@@ -78,7 +78,7 @@ header{
 }
 /*Main*/
 main{
-    background: url("../images/poster.jpg");
+    background: url("poster.jpg");
     background-size: cover;
     padding: 15.5rem 0 0rem 0;
     font-family: 'Oswald', sans-serif;
